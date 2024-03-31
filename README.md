@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manishankus
 - 👀 I’m interested in analytics driven anecdotes
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on analytical hacks
 - 📫 How to reach me: https://www.linkedin.com/in/manish-ankush/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: #blueobsessed
